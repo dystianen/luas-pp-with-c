@@ -1,0 +1,15 @@
+C:\Users\disti\RiderProjects\LuasPersegiPanjang\LuasPersegiPanjang\bin\Debug\net6.0\LuasPersegiPanjang.exe
+C:\Users\disti\RiderProjects\LuasPersegiPanjang\LuasPersegiPanjang\bin\Debug\net6.0\LuasPersegiPanjang.deps.json
+C:\Users\disti\RiderProjects\LuasPersegiPanjang\LuasPersegiPanjang\bin\Debug\net6.0\LuasPersegiPanjang.runtimeconfig.json
+C:\Users\disti\RiderProjects\LuasPersegiPanjang\LuasPersegiPanjang\bin\Debug\net6.0\LuasPersegiPanjang.dll
+C:\Users\disti\RiderProjects\LuasPersegiPanjang\LuasPersegiPanjang\bin\Debug\net6.0\LuasPersegiPanjang.pdb
+C:\Users\disti\RiderProjects\LuasPersegiPanjang\LuasPersegiPanjang\obj\Debug\net6.0\LuasPersegiPanjang.csproj.AssemblyReference.cache
+C:\Users\disti\RiderProjects\LuasPersegiPanjang\LuasPersegiPanjang\obj\Debug\net6.0\LuasPersegiPanjang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disti\RiderProjects\LuasPersegiPanjang\LuasPersegiPanjang\obj\Debug\net6.0\LuasPersegiPanjang.AssemblyInfoInputs.cache
+C:\Users\disti\RiderProjects\LuasPersegiPanjang\LuasPersegiPanjang\obj\Debug\net6.0\LuasPersegiPanjang.AssemblyInfo.cs
+C:\Users\disti\RiderProjects\LuasPersegiPanjang\LuasPersegiPanjang\obj\Debug\net6.0\LuasPersegiPanjang.csproj.CoreCompileInputs.cache
+C:\Users\disti\RiderProjects\LuasPersegiPanjang\LuasPersegiPanjang\obj\Debug\net6.0\LuasPersegiPanjang.dll
+C:\Users\disti\RiderProjects\LuasPersegiPanjang\LuasPersegiPanjang\obj\Debug\net6.0\refint\LuasPersegiPanjang.dll
+C:\Users\disti\RiderProjects\LuasPersegiPanjang\LuasPersegiPanjang\obj\Debug\net6.0\LuasPersegiPanjang.pdb
+C:\Users\disti\RiderProjects\LuasPersegiPanjang\LuasPersegiPanjang\obj\Debug\net6.0\LuasPersegiPanjang.genruntimeconfig.cache
+C:\Users\disti\RiderProjects\LuasPersegiPanjang\LuasPersegiPanjang\obj\Debug\net6.0\ref\LuasPersegiPanjang.dll
